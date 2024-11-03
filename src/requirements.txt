@@ -1,0 +1,16 @@
+django
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma>=0.1.2
+python-decouple
+chromadb
+psycopg2-binary
+django-ckeditor-5
+traceback-with-variables
+unidecode
+bs4
+sentence-transformers
+drf-yasg
+django-filter
+drf-exceptions-hog
